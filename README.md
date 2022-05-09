@@ -1,9 +1,7 @@
-<!DOCTYPE html>
-<html>
-  <head>
-  </head>
-  <body>
-    <section>
+<!DOCTYPE html>        
+  <html>
+    <body>
+      <section>
       <h1>
         KETSU
       </h1>
@@ -11,8 +9,9 @@
       <a href="https://nincompoopp.github.io/download">Download</a> | 
       <a href="https://nincompoopp.github.io/faq">FAQ</a>
     </section>
-    <hr>
-    <br>
+      <hr>
+      <br>
+      <h2>Information</h2>
     <section>
         <article>
           <h4>
