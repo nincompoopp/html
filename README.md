@@ -2,7 +2,7 @@
 <html>
   <head>
     <title>
-      nincompoopp-KETSU
+      KETSU-nincompoop
     </title>
   </head>
   <body>
@@ -52,9 +52,13 @@
       <hr>
       <h2 id="faq">FAQ</h2>
         <article>
+          <h4>
+            s
+          </h4>
           <p>
-          h  
+            s
           </p>
+          
         </article>
     <footer>
       <h5>
