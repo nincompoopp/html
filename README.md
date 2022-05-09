@@ -10,6 +10,7 @@
       <a href=#faq>
     </section>
     <article>
+      <h2 id="faq">FAQ</h2>
     </article>
     <footer>
     </footer>
