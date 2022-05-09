@@ -11,6 +11,8 @@
       <a href="https://nincompoopp.github.io/download">Download</a> | 
       <a href="https://nincompoopp.github.io/faq">FAQ</a>
     </section>
+    <hr>
+    <br>
     <section>
         <article>
           <h4>
